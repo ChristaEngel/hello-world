@@ -1,2 +1,2 @@
 # hello-world
-First Repository
+My name is Christa, and this is my first repository.
